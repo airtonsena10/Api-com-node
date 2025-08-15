@@ -22,6 +22,13 @@
       "when": 1755199244691,
       "tag": "0002_dark_lilandra",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1755287483450,
+      "tag": "0003_common_black_bolt",
+      "breakpoints": true
     }
   ]
 }
